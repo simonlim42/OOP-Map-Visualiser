@@ -1,9 +1,13 @@
 package parking;
 
 public class Car {
-    public String licensePlate;
+    private String licensePlate;
 
-    public Car(String licensePlate){
-        this.licensePlate=licensePlate;
+    public Car(String licensePlate) {
+        this.licensePlate = licensePlate;
+    }
+
+    public String getLicensePlate() {
+        return licensePlate;
     }
 }
