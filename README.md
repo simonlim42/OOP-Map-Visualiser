@@ -1,6 +1,6 @@
 # Parking Lot Project
 
-This project focusses on implementing a  parking lot system with **object-oriented principles** on Java.
+This project focusses on implementing a  parking lot system with **object-oriented principles** in Java.
 
 ## Overview
 
