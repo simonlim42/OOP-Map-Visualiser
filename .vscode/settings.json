@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "parking",
+        "parkingLot",
+        "parkingLot\\lib"
+    ],
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "parking\\lib\\junit-4.10.jar",
+            "parkingLot/lib/junit-4.10.jar"
+        ],
+        "exclude": [
+            "parking/lib/junit-4.10.jar"
+        ]
+    },
+    "java.dependency.packagePresentation": "hierarchical"
+}
